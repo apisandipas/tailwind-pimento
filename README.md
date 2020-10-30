@@ -25,6 +25,6 @@ You now have access to the Pimento theme any where you would use normal Tailwind
 
 ```html
 <div class="bg-pimento-blue0">
-    <p class="text-pimentoFG">Hello, this is some text</p>
+    <p class="text-pimento-fg">Hello, this is some text</p>
 </div>
 ```
