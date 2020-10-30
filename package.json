@@ -1,0 +1,28 @@
+{
+  "name": "tailwind-pimento",
+  "version": "1.0.0",
+  "description": "A tailwindcss plugin that enables the use of the Pimento color palette",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "package",
+    "tailwind",
+    "tailwindcss",
+    "pimento"
+  ],
+  "homepage": "https://github.com/apisandipas/tailwind-pimento",
+  "files": [
+    "index.js"
+  ],
+  "author": "Bryan Paronto <bryan.paronto+pimento@pm.me>",
+  "license": "MIT",
+  "devDependencies": {
+    "tailwindcss": "^1.2.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/apisandipas/tailwind-pimento.git"
+  }
+}
