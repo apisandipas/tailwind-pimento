@@ -4,8 +4,8 @@ module.exports = plugin(function ({ theme }) {}, {
   theme: {
     extend: {
       colors: (theme) => ({
-        pimentoBG: "#242c38",
-        pimentoFG: "#f2f2f4",
+        "pimento-bg": "#242c38",
+        "pimento-fg": "#f2f2f4",
         "pimento-black0": "#333b47",
         "pimento-black1": "#424a56",
         "pimento-red0": "#f05656",

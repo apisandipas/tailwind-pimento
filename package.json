@@ -16,7 +16,7 @@
   "files": [
     "index.js"
   ],
-  "author": "Bryan Paronto <bryan.paronto+pimento@pm.me>",
+  "author": "Bryan Paronto <bryan.paronto@pm.me>",
   "license": "MIT",
   "devDependencies": {
     "tailwindcss": "^1.2.0"
